@@ -1,7 +1,7 @@
 # scms-delivery-performance-analysis
 End-to-end supply chain analysis of SCMS delivery data using SQL and Power BI. Identifies $250M+ in delayed shipment risk concentrated in specific transport modes, vendors, regions, and product categories, delivering actionable insights for logistics optimization.
 
-## 📂 Data Source
+## Data Source
 Dataset: SCMS Delivery History Dataset  
 Source: Kaggle  
 Link: [https://www.kaggle.com/datasets/sawandikirby/supply-chain-shipment-pricing-data]
@@ -35,7 +35,7 @@ This analysis answers:
 
 ---
 
-## 🏗️ Data Pipeline
+## Data Pipeline
 
 ### 1. Raw Data
 
