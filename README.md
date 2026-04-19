@@ -8,6 +8,10 @@ Link: [https://www.kaggle.com/datasets/sawandikirby/supply-chain-shipment-pricin
 
 This dataset contains historical shipment records used to analyze delivery performance and supply chain risk.
 
+## Tools & Technologies
+- SQL (PostgreSQL)
+- Power BI
+
 ## Project Overview
 
 This project analyzes global shipment performance using the SCMS Delivery History dataset to identify key drivers of delivery delays and quantify operational risk across transportation modes, vendors, geographies, and product categories.
